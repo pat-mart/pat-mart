@@ -9,4 +9,4 @@ I am the lead of control systems and programming for [@FRC3950](https://github.c
 
 I am also a Java devotee. 
 
-[Top Langs]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
