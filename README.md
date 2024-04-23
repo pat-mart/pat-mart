@@ -1,3 +1,5 @@
 <img src="https://media.tenor.com/pTPPHO2RdMsAAAAC/spongebob-patrick-star.gif"></img>
 
-_Alpha for Astronomy_ is now on the App Store! (under my dad's name due to Apple Developer rules)
+FRC #3950 alumnus. Check out my Flutter iOS app, Alpha for Astronomy! 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-mart)
